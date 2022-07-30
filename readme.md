@@ -12,7 +12,7 @@ you run the program and type shit
 
 # why does it use so much cpu
 
-i dont know, perhaps its because it has to do a lot of stuff? just a buy a proper keyboard
+i dont know, perhaps its because it has to do a lot of stuff? just buy a proper keyboard
 
 # thanks to:
     - My psychologist for helping me, without his help this project would've killed itself
